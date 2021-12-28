@@ -1,7 +1,52 @@
 1 - Na sua opnião, lógica de programação é importante? Reflita.
+ R= Sim é muito importante pois a sequência logica que nos dara ferramentas necessarias
+ para execultar um processo.
+ 
+ 
+ 
+ 
+2 - Crie uma seqüência lógica para ir ao  mercado
+R=1 Levantar do sofá
+    2 Calçar o tênis 
+    3 pegar a chave do carro
+    4 Andar até a porta
+    5 Abrir a porta
+    6 fechar a porta
+    7 Andar até o carro
+    8 Entrar no carro
+    9 colocar o cinto
+    10  ligar o carro
+    11 Dirigir até o carro
+    
 
-2 - Crie uma seqüência lógica para ir ao mercado.
 
-3 - Faça um algoritmo para somar dois números.
+
+
+3 - Faça um algoritmo para somar dois numeros
+R= Solicitar 2 numeros para a soma
+    Realizar a soma
+    Retornar o result
+
+
+
 
 4 - Faça um algoritmo para trocar uma lâmpada. Descreva com detalhes.
+R= Ir ao supermecado
+    Comprar a lâmpada
+    Voltar para trocar a lâmpada
+    Colocar a lâmpada nova em um lugar seguro
+    1 Desligar interrupitor  da  lâmpada
+    2  Pegar a escada
+    3  Subir na escada
+    4  Retirar a lâmpada queimada
+    5 Descer da escada
+    6 Jogar a lâmpada queimada fora
+    7 Pegar a lâmpada nova
+    8 Subir na escada novamente
+    9 Colocar a lâmpada nova
+    10 Descer da escada
+    11 Guardar a escada
+    12 Ligar o interruptor da lâmpada
+    
+   
+    
